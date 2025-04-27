@@ -1,11 +1,9 @@
 Fraud Detection in Car Insurance Claims Using Machine Learning
 
 This project aims to detect fraudulent car insurance claims using advanced machine learning techniques and comprehensive data analysis.
-The study leverages Random Forest, Support Vector Machine (SVM), AdaBoost, and other ensemble models to predict fraud effectively.
-Key techniques include feature engineering, statistical testing (Chi-Square and ANOVA), class imbalance handling with SMOTE, and model evaluation using AUC-ROC and F1-score metrics.
-The project addresses the significant financial impact of fraud on the UK insurance sector, where fraudulent claims cost over £1.1 billion annually.
+The study effectively predicts fraud by leveraging Random Forest, Support Vector Machine (SVM), AdaBoost, and other ensemble models.
+Key techniques include feature engineering, statistical testing (Chi-Square and ANOVA), class imbalance handling with SMOTE, and model evaluation using AUC-ROC and F1-score metrics. The project addresses the significant financial impact of fraud on the UK insurance sector, where fraudulent claims cost over £1.1 billion annually.
 
-⸻
 
 Skills Demonstrated
 
@@ -22,7 +20,6 @@ This project showcases my ability to perform the following key data science skil
    • Machine Learning Expertise: Applying ensemble learning techniques and imbalanced classification strategies.
    • Analytical Thinking: Drawing meaningful insights from model results to guide future research and practical implementation.
 
-⸻
 
 Summary of Findings
 
